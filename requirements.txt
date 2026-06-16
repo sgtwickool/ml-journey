@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+jupyter
+ipykernel
+scikit-learn
+pandas
+tqdm
+einops

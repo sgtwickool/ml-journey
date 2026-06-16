@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+
+# Data and model artifacts — keep the repo small
+data/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+wandb/
+runs/
+mlruns/
+
+# Local env
+.env
+.env.local
